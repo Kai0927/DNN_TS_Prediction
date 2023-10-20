@@ -27,4 +27,4 @@ It can increase by about 20 % performance after having VIF calculation.
 
 <img src="https://github.com/Kai0927/DNN_TS_Prediction/blob/main/image/Performance.png" width="50%" height="50%">
 
-<img src="https://github.com/Kai0927/DNN_TS_Prediction/blob/main/image/DNN_Prediction_vs_OBS.png" width="100%" height="100%">
+<img src="https://github.com/Kai0927/DNN_TS_Prediction/blob/main/image/DNN_Prediction_vs_OBS.png" width="50%" height="50%">
